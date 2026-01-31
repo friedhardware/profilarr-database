@@ -9,54 +9,39 @@ conditions:
   pattern: Release Group (Missing)
   required: false
   type: release_group
-- name: 4K4U
+- name: YIFY
   negate: false
-  pattern: 4K4U
+  pattern: YIFY
   required: false
   type: release_group
-- name: AOC
+- name: YTS
   negate: false
-  pattern: AOC
+  pattern: YTS
   required: false
   type: release_group
-- name: AROMA
+- name: STUTTERSHIT
   negate: false
-  pattern: AROMA
+  pattern: STUTTERSHIT
   required: false
   type: release_group
-- name: BeyondHD
+- name: x0r
   negate: false
-  pattern: BeyondHD
+  pattern: x0r
   required: false
   type: release_group
-- name: BiTOR
+- name: FGT
   negate: false
-  pattern: BiTOR
+  pattern: FGT
   required: false
   type: release_group
-- name: BLASPHEMY
+- name: MeGusta
   negate: false
-  pattern: BLASPHEMY
+  pattern: MeGusta
   required: false
   type: release_group
-- name: BOLS
+- name: RARGB
   negate: false
-  pattern: BOLS
-  required: false
-  type: release_group
-- name: BTM
-  negate: false
-  pattern: BTM
-  required: false
-  type: release_group
-- name: CLASSiCALHD
-  negate: false
-  pattern: CLASSiCALHD
-  required: false
-  type: release_group
-- name: CREATiVE24
-  negate: false
-  pattern: CREATiVE24
+  pattern: RARGB
   required: false
   type: release_group
 - name: d3g
@@ -64,64 +49,19 @@ conditions:
   pattern: d3g
   required: false
   type: release_group
-- name: DepraveD
+- name: Telly
   negate: false
-  pattern: DepraveD
+  pattern: Telly
   required: false
   type: release_group
-- name: DeViSiVE
+- name: NoGroup
   negate: false
-  pattern: DeViSiVE
+  pattern: NoGroup
   required: false
   type: release_group
-- name: DRX
+- name: UnKn0wn
   negate: false
-  pattern: DRX
-  required: false
-  type: release_group
-- name: E
-  type: release_group
-  required: false
-  negate: false
-  pattern: E
-- name: FGT
-  negate: false
-  pattern: FGT
-  required: false
-  type: release_group
-- name: Flights
-  negate: false
-  pattern: Flights
-  required: false
-  type: release_group
-- name: HDS
-  negate: false
-  pattern: HDS
-  required: false
-  type: release_group
-- name: iVy
-  negate: false
-  pattern: iVy
-  required: false
-  type: release_group
-- name: jennaortegaUHD
-  negate: false
-  pattern: jennaortegaUHD
-  required: false
-  type: release_group
-- name: KC
-  negate: false
-  pattern: KC
-  required: false
-  type: release_group
-- name: LAMA
-  negate: false
-  pattern: LAMA
-  required: false
-  type: release_group
-- name: MeGusta
-  negate: false
-  pattern: MeGusta
+  pattern: UnKn0wn
   required: false
   type: release_group
 - name: MgB
@@ -134,54 +74,9 @@ conditions:
   pattern: NAHOM
   required: false
   type: release_group
-- name: NhaNc3
-  negate: false
-  pattern: NhaNc3
-  required: false
-  type: release_group
-- name: NoGroup
-  negate: false
-  pattern: NoGroup
-  required: false
-  type: release_group
-- name: OEPlus
-  negate: false
-  pattern: OEPlus
-  required: false
-  type: release_group
-- name: PiRaTeS
-  negate: false
-  pattern: PiRaTeS
-  required: false
-  type: release_group
-- name: PSA
-  negate: false
-  pattern: PSA
-  required: false
-  type: release_group
-- name: RARGB
-  negate: false
-  pattern: RARGB
-  required: false
-  type: release_group
 - name: SasukeducK
   negate: false
   pattern: SasukeducK
-  required: false
-  type: release_group
-- name: SHD
-  negate: false
-  pattern: SHD
-  required: false
-  type: release_group
-- name: ShieldBearer
-  negate: false
-  pattern: ShieldBearer
-  required: false
-  type: release_group
-- name: STUTTERSHIT
-  negate: false
-  pattern: STUTTERSHIT
   required: false
   type: release_group
 - name: tarunk9c
@@ -189,54 +84,14 @@ conditions:
   pattern: tarunk9c
   required: false
   type: release_group
-- name: TEKNO3D
+- name: PiRaTeS
   negate: false
-  pattern: TEKNO3D
+  pattern: PiRaTeS
   required: false
   type: release_group
-- name: Telly
+- name: BiTOR
   negate: false
-  pattern: Telly
-  required: false
-  type: release_group
-- name: TvR
-  negate: false
-  pattern: TvR
-  required: false
-  type: release_group
-- name: UnKn0wn
-  negate: false
-  pattern: UnKn0wn
-  required: false
-  type: release_group
-- name: VD0N
-  negate: false
-  pattern: VD0N
-  required: false
-  type: release_group
-- name: VECTOR
-  negate: false
-  pattern: VECTOR
-  required: false
-  type: release_group
-- name: VisionXpert
-  negate: false
-  pattern: VisionXpert
-  required: false
-  type: release_group
-- name: x0r
-  negate: false
-  pattern: x0r
-  required: false
-  type: release_group
-- name: YIFY
-  negate: false
-  pattern: YIFY
-  required: false
-  type: release_group
-- name: YTS
-  negate: false
-  pattern: YTS
+  pattern: BiTOR
   required: false
   type: release_group
 tests: []
