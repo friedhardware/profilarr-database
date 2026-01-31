@@ -16,31 +16,31 @@ custom_formats:
 - name: 1080p WEB-DL (h264)
   score: 620000
 - name: 720p WEB-DL
-  score: 580000
+  score: 380000
 - name: 720p Bluray
-  score: 460000
+  score: 280000
 - name: 720p WEBRip
-  score: 460000
+  score: 280000
 - name: 1080p HDTV
   score: 340000
 - name: 720p HDTV
-  score: 240000
+  score: 140000
 - name: 576p Bluray
   score: 160000
 - name: 720p Quality Tier 1
-  score: 145000
+  score: 85000
 - name: 720p Quality Tier 2
-  score: 144000
+  score: 84000
 - name: 720p Quality Tier 3
-  score: 143000
+  score: 83000
 - name: 720p Quality Tier 4
-  score: 142000
+  score: 82000
 - name: 720p Quality Tier 5
-  score: 141000
+  score: 81000
 - name: 720p Quality Tier 6
-  score: 140000
+  score: 80000
 - name: 720p Balanced Tier 1
-  score: 120000
+  score: 70000
 - name: 1080p HDTV Tier 1
   score: 102000
 - name: 1080p HDTV Tier 2
@@ -50,11 +50,11 @@ custom_formats:
 - name: 480p Bluray
   score: 100000
 - name: 720p HDTV Tier 2
-  score: 81000
+  score: 50000
 - name: 480p WEB-DL
   score: 80000
 - name: 720p HDTV Tier 3
-  score: 80000
+  score: 48000
 - name: 576p Quality Tier 1
   score: 63000
 - name: 576p Quality Tier 2
@@ -302,7 +302,7 @@ custom_formats_sonarr:
 - name: 1080p Compact TV Trash Tier 2
   score: 640000
 - name: 720p HDTV Tier 1
-  score: 80000
+  score: 50000
 - name: Season Pack
   score: 10
 - name: AMZN
